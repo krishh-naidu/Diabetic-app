@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run diabetes-streamlit-2.py
